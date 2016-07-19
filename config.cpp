@@ -7,7 +7,6 @@ class CfgPatches
 		units[]=
 		{
 			"Antonov",
-			"AntonovRus"
 		};
 		weapons[]={};
 		requiredVersion=1;
