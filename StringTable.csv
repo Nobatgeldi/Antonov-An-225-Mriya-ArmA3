@@ -1,8 +1,10 @@
 ﻿LANGUAGE, English, Russian
 
+STR_WU_NAME, "Wings of Peace","Крылья Мира"
 STR_AN225_NAME1, "Antonov-225 'Mriya' UA","Ан-225 'Мрiя' (Украина)"
 STR_AN225_NAME2, "Antonov-225 'Mriya' USSR","Ан-225 'Мрiя' (СССР)"
 STR_AN225_NAME3, "Antonov-225 (EVA AIR)","Ан-225 (EVA AIR)"
+STR_AN225_NAME4, "An-225 'Mriya' UA New","Ан-225 'Мрiя' (Украина, нов.)"
 STR_AN225_ON, "<t color='#40c0ff'>Open Nose</t>","<t color='#40c0ff'>Открыть носовую часть</t>"
 STR_AN225_CN, "<t color='#40c0ff'>Close Nose</t>","<t color='#40c0ff'>Закрыть носовую часть</t>"
 STR_AN225_PS, "Parachute Group","Высадка десанта"

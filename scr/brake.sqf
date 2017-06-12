@@ -11,7 +11,6 @@ if ((_dikCode in (ActionKeys "user19")) and (_pos2 < 0.06) and ((speed _plane)> 
 	_speed 	 = ((speed _plane)*(-0.005));
 	_vel = velocity _plane;
 	//HintSilent Format ["Keys : %1",_dikCode];
-        
 	temp_tire = temp_tire + 1;
 	if ((temp_tire > 195) and (tt == 0)) then
 	{

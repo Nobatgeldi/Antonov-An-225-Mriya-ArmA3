@@ -5,7 +5,7 @@ _plane	 = (vehicle _player);
 _pos 	 = (getpos _plane);
 _pos2	 = (_pos select 2);
 
-if ((_dikCode in (ActionKeys "user18")) and ((speed _plane)> 0) and ((speed _plane)< 300)) then
+if ((_dikCode in (ActionKeys "user18")) and ((speed _plane)> 100) and ((speed _plane)< 300) and (buster == 0)) then
 {
 	_dir 	 = getDir _plane;
 	_speed 	 = ((speed _plane)*(0.001));
